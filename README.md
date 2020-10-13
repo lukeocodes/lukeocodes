@@ -43,9 +43,9 @@ I'm Luke, a Developer Educator working for Vonage in the Product Team, from the 
 <a href="https://github.com/lukeocodes/guys-bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lukeocodes&repo=guys-bot&title_color=ffffff&text_color=c9cacc&icon_color=ce3691&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/Team-PokeChat/pok--chat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Team-PokeChat&repo=pok--chat&title_color=ffffff&text_color=c9cacc&icon_color=ce3691&bg_color=1d1f21" />
-</a>    
+<a href="https://github.com/lukeocodes/hacktoberfest-checker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lukeocodes&repo=hacktoberfest-checker&title_color=ffffff&text_color=c9cacc&icon_color=ce3691&bg_color=1d1f21" />
+</a>
 
 <!-- icons without padding -->
 
