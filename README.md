@@ -1,6 +1,6 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
-[![Header](readme_header.png "Header")](https://lukeocodes.dev/)
+[![@lukeocodes](github-card.png "@lukeocodes")](https://lukeocodes.dev/)
 
 # Hello, folks! <img src="wave.gif" width="30px">
 
