@@ -4,7 +4,7 @@
 
 # Hello, folks! <img src="wave.gif" width="30px">
 
-I'm Luke, a Developer Educator working for Vonage in the Product Team, from the UK. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][2.2]][2].
+I'm Luke, a Developer Educator working for Vonage in the Product Team, from the UK. You can find me on [Twitter][1], [LinkedIn][2], or on [Twitch][3].
 
 ## 🔭 I’m currently working on ...
 
@@ -41,15 +41,11 @@ I'm Luke, a Developer Educator working for Vonage in the Product Team, from the 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lukeocodes&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=ce3691&bg_color=1d1f21" alt="Luke's GitHub Stats" />
 </a>
 
-<!-- icons without padding -->
-
-[1.2]: twitter-3-16.png (twitter icon without padding)
-[2.2]: linkedin-3-16.png (LinkedIn icon without padding)
-
 <!-- links to your social media accounts -->
 
 [1]: https://twitter.com/lukeocodes
 [2]: https://www.linkedin.com/in/lukeocodes
+[3]: https://twitch.tv/lukeocodes
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
