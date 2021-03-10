@@ -1,19 +1,22 @@
-<!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
-
 [![@lukeocodes](github-card.png "@lukeocodes")](https://lukeocodes.dev/)
 
-# Hello, folks! <img src="wave.gif" width="30px">
+# Hello, folks!
 
-I'm Luke, a Developer Educator working for Vonage in the Product Team, from the UK. You can find me on [Twitter][1], [LinkedIn][2], or on [Twitch][3].
+I'm Luke, currently working at Vonage in the Developer Relations Team, and I'm from the UK. I'm into streaming, engineering, and community building. You can find me on [Twitter][1], [LinkedIn][2], or on [Twitch][3].
 
 ## 🔭 I’m currently working on ...
 
-- Lots of content for Vonage
-- This [little Pokémon themed chat](https://github.com/Team-PokeChat/pok--chat) app
+- Live streaming to raise funds for @GirlsWhoCode and @BlackGirlsCode
+- [Inclusive Language SlackBot](https://github.com/lukeocodes/guys-bot)
+- [Retro themed multiplayer browser game](https://github.com/Retro-Game-Chat/retro-game-chat)
+- [Interactive Twitch scenes using Comfy.js](https://github.com/lukeocodes/comfy-scenes)
+- [Gentle on the eyes VSCode themes](https://github.com/lukeocodes/gentle-themes)
+- [Developer Education Platform](https://github.com/Nexmo/deved-platform)
 
 ## 🔧 Technologies & tools ...
 
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=Apple&logoColor=white&color=6e33ba)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=6e33ba)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6e33ba)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6e33ba)
 ![](https://img.shields.io/badge/Code-Nuxt-informational?style=flat&logo=nuxt.js&logoColor=white&color=6e33ba)
@@ -22,35 +25,10 @@ I'm Luke, a Developer Educator working for Vonage in the Product Team, from the 
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=6e33ba)
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=6e33ba)
 ![](https://img.shields.io/badge/Cloud-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=6e33ba)
-
-## 🤔 I’m looking for help with ...
-
-- This [little Pokémon themed chat](https://github.com/Team-PokeChat/pok--chat) app
-
-## 💬 Ask me about ...
-
-- Inclusive Language
-- The benefits of Jamstack
-
-## 📈 GitHub stats ...
-
-<a href="https://github.com/lukeocodes/lukeocodes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukeocodes&hide=php,html&title_color=ffffff&text_color=c9cacc&icon_color=ce3691&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/lukeocodes/lukeocodes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lukeocodes&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=ce3691&bg_color=1d1f21" alt="Luke's GitHub Stats" />
-</a>
+![](https://img.shields.io/badge/Cloud-Firebase-informational?style=flat&logo=Firebase&logoColor=white&color=6e33ba)
 
 <!-- links to your social media accounts -->
 
 [1]: https://twitter.com/lukeocodes
 [2]: https://www.linkedin.com/in/lukeocodes
 [3]: https://twitch.tv/lukeocodes
-
-<!-- Resources -->
-<!-- Icons: https://simpleicons.org/ -->
-<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Emojis: https://emojipedia.org/emoji/ -->
-<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
-<!-- Shields: https://shields.io/ -->
-<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
