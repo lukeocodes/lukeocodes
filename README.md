@@ -1,4 +1,4 @@
-[![@lukeocodes](github-card.png "@lukeocodes")](https://lukeocodes.dev/)
+[![@lukeocodes](new-card-1280-720.png "@lukeocodes")](https://lukeocodes.dev/)
 
 # Hello, folks!
 
