@@ -2,7 +2,7 @@
 
 # Hello, folks!
 
-I'm Luke, currently working at Vonage in the Developer Relations Team, and I'm from the UK. I'm into streaming, engineering, and community building. You can find me on [Twitter][1], [LinkedIn][2], or on [Twitch][3].
+I'm Luke, and I am a Engineering Manager by day and Live Coding Streamer by night. You can find me on [Twitter][1], [LinkedIn][2], or on [Twitch][3].
 
 ## 🔭 I’m currently working on ...
 
@@ -11,7 +11,6 @@ I'm Luke, currently working at Vonage in the Developer Relations Team, and I'm f
 - [Retro themed multiplayer browser game](https://github.com/Retro-Game-Chat/retro-game-chat)
 - [Interactive Twitch scenes using Comfy.js](https://github.com/lukeocodes/comfy-scenes)
 - [Gentle on the eyes VSCode themes](https://github.com/lukeocodes/gentle-themes)
-- [Developer Education Platform](https://github.com/Nexmo/deved-platform)
 
 ## 🔧 Technologies & tools ...
 
