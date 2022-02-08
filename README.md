@@ -2,15 +2,9 @@
 
 # Hello, folks!
 
-I'm Luke, and I am a Engineering Manager by day and Live Coding Streamer by night. You can find me on [Twitter][1], [LinkedIn][2], or on [Twitch][3].
+I'm Luke, and I am a Developer Experience Engineer. You can find me on [Twitter][1], or on [Twitch][2]. 
 
-## 🔭 I’m currently working on ...
-
-- Live streaming to raise funds for @GirlsWhoCode and @BlackGirlsCode
-- [Inclusive Language SlackBot](https://github.com/lukeocodes/guys-bot)
-- [Retro themed multiplayer browser game](https://github.com/Retro-Game-Chat/retro-game-chat)
-- [Interactive Twitch scenes using Comfy.js](https://github.com/lukeocodes/comfy-scenes)
-- [Gentle on the eyes VSCode themes](https://github.com/lukeocodes/gentle-themes)
+Developer Relations (and Developer Experience specifically) is about smoothing out the experience between a developer (you) and a product (my employer). This may involve developing cool cools like CLIs, creating great content, hands on or recorded teaching, building platforms, or developing APIs and SDKs for developers to use.
 
 ## 🔧 Technologies & tools ...
 
@@ -29,5 +23,4 @@ I'm Luke, and I am a Engineering Manager by day and Live Coding Streamer by nigh
 <!-- links to your social media accounts -->
 
 [1]: https://twitter.com/lukeocodes
-[2]: https://www.linkedin.com/in/lukeocodes
-[3]: https://twitch.tv/lukeocodes
+[2]: https://twitch.tv/lukeocodes
