@@ -1,10 +1,10 @@
-[![@lukeocodes](new-card-1280-720.png "@lukeocodes")](https://lukeocodes.dev/)
+[![An image of @lukeocodes's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lukeocodes)](https://holopin.io/@lukeocodes)
 
 # Hello, folks!
 
-I'm Luke, and I am a Developer Experience Engineer. You can find me on [Twitter][1], or on [Twitch][2]. 
+I'm Luke, and I am a Developer Experience Engineer.
 
-Developer Relations (and Developer Experience specifically) is about smoothing out the experience between a developer (you) and a product (my employer). This may involve developing cool cools like CLIs, creating great content, hands on or recorded teaching, building platforms, or developing APIs and SDKs for developers to use.
+> Luke Oliff is an experienced Developer Advocate with a strong technical background. Currently holding the position of Senior Developer Experience Engineer at Deepgram, Luke has been instrumental in leading the Developer Experience team's strategy and initiatives, collaborating closely with cross-functional teams, and contributing to the development of the developer community. His expertise spans a range of core skills, including Typescript, React, and Node.js, along with proficiency in other languages like Python and Go. With a track record of success in developer advocacy and engineering leadership roles, Luke brings a wealth of knowledge and experience to the table.
 
 ## 🔧 Technologies & tools ...
 
