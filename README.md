@@ -1,11 +1,19 @@
-![Touch Grass](https://github.com/user-attachments/assets/072fb25a-18ba-412b-bfee-907884eebf96)
+![Touch Grass](https://github.com/user-attachments/assets/dfa7ce19-05a0-4309-8026-aa166dc9773f)
 
 You too can be reminded not to overwork your contribution graph by installing my [Touch Grass](https://github.com/lukeocodes/touch-grass) browser plugin.
+
+<hr />
+
+## Luke `@lukeocodes` Oliff
+
+If you've landed on my profile, you're probably wondering what I do. Honestly, so are my family and my employer -- so you're in good company. I'm a seasoned software engineer with a focus on developer experience: I build and improve the tools and products that developers use every day, making them a little less painful and a lot more intuitive.
+
+### If I was a container
 
 ```Dockerfile
 # ADHD-Dockerfile
 
-FROM multitasker:latest
+FROM multitasker:v1-rc.2
 
 LABEL maintainer="luke@lukeoliff.com"
 
@@ -17,27 +25,22 @@ RUN apt-get update && apt-get install -y \
     coffee \
     software \
     fidget-spinners \
-    gaming
+    gaming \
+    ai
 
 # Set up workspace
 WORKDIR /home/luke
 
 # ADD distractions
-ADD https://x.com/lukeocodes /home/luke/x
+ADD https://bsky.app/profile/lukeocodes.dev /home/luke/bsky
 ADD https://github.com/lukeocodes /home/luke/github
 
 # GET work
-RUN git clone git@github.com:deepgram-devs/deepgram-conversational-demo.git
-RUN git clone git@github.com:deepgram/deepgram-js-sdk.git
-RUN git clone git@github.com:deepgram-starters/nextjs-live-transcription.git
-RUN git clone git@github.com:deepgram-devs/react-nowplaying.git
+ADD https://github.com/deepgram /home/luke/Projects/deepgram
 
-# CMD to run focus tools (which get ignored)
+# Start
 CMD ["focus", "--start"]
+ENTRYPOINT ["echo", "Starting session... ooh look, a squirrel!"]
 
-# Entry point (where it all goes off track)
-ENTRYPOINT ["echo", "Starting focus session... ooh look, a squirrel!"]
-
-# End result
 # ADHD-Container running with 22515320994320 open tabs and 12 unfinished work tasks
 ```
