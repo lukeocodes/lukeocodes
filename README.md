@@ -1,6 +1,6 @@
-![1500x500](https://github.com/user-attachments/assets/6bcf207a-3740-42d6-9e9b-106f1ec4493b)
+![Touch Grass](https://github.com/user-attachments/assets/072fb25a-18ba-412b-bfee-907884eebf96)
 
-Contain me!
+You too can be reminded not to overwork your contribution graph by installing my [Touch Grass](https://github.com/lukeocodes/touch-grass) browser plugin.
 
 ```Dockerfile
 # ADHD-Dockerfile
